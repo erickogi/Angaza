@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AngazaProject</string>
+    <string name="holer_msg">a penny saved is a penny earned</string>
+    <string name="connected">Has internet connection</string>
+    <string name="notconnected">No internet connection</string>
+    <string name="loading">Loading.....</string>
+    <string name="try_if_connected">Try only if network is connected</string>
+    <string name="try_always">Try always (Even when not connected)</string>
+</resources>
